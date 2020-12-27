@@ -146,19 +146,6 @@ header {
     .icon.cancel-btn:hover {
         color: antiquewhite;
     }
-
-    .container-devices {
-        flex-direction: column;
-    }
-
-    .features-content {
-        font-size: 0.7em;
-    }
-
-    .features-btn {
-        left: 0;
-
-    }
 }
 
   
